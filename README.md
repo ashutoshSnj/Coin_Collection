@@ -1,6 +1,6 @@
 # Managing Coin Collection
 
-## Java Case Study 3
+## Java Case Study 
 
 ### Overview
 This application is designed to efficiently manage a coin collection. The project leverages **Hibernate**, **Stream API**, and **Collection Framework** within a **Maven** setup to provide seamless data management and processing.
